@@ -1,0 +1,125 @@
+.head{
+    background-image: url("../index.html/WhatsApp\ Image\ 2023-03-16\ at\ 5.08.06\ PM.jpeg");
+    background-color: beige ;
+    color: darkolivegreen;
+padding-top: 200px;
+text-align: center;
+position: relative;
+font-size: 50px;
+font-family: 'Lucida Handwriting', cursive;
+}
+.middle{
+    padding: 0px.10px;
+    text-align: center;
+    position: relative;
+    color: darkolivegreen;
+    font: size 40px;;
+font-style: oblique;
+background-color: rgb(251, 252, 253)
+margin: -20px.0px.0px;
+}
+.skills{
+    text-align: center;
+    padding: 84px.10px;
+    position: relative;
+    color: darkolivegreen;
+    font: size 40px;;
+font-style: oblique;
+background-color: white;
+margin: -30px.0px.0px;
+}
+.language{
+    text-align: center;
+    padding: 75px.10px;
+    position: relative;
+    color: darkolivegreen;
+    font: size 40px;;
+font-style: oblique;
+background-color: white;
+margin: -30px.0px.0px;
+}
+.end{
+    text-align: center;
+    padding: 75px.10px;
+    position: relative;
+    color: darkolivegreen;
+    font: size 40px;;
+    font-family: 'Lucida Handwriting', cursive;
+background-color: white;
+margin: -30px.0px.0px;
+}
+.contact a{
+    text-decoration: none; 
+    background-color: darkolivegreen;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 9px;
+    border-color: white;
+text-decoration-color: white;
+color: white;
+}
+.ending {
+    background-color: darkolivegreen;
+padding-bottom: 150px;
+    font-size:20px ;
+    text-align: center;
+    margin: 190px.0px.0px;padding-top: 2px;
+    text-align: center;
+    position: relative;
+    font-size: 50px;
+    font-family: 'Lucida Handwriting', cursive;
+    
+text-align: end;
+text-align: end;
+}
+.social a{
+    color: white;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.social{
+    background-color: darkolivegreen;
+    padding: 50px 0 20p;
+    padding-bottom: 10px;
+}
+.social a{
+    color: white;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.mail{
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px
+}
+.botton{
+    position: absolute;
+    left: 0cm;
+    padding: 15px;
+    color: black;
+}
+element.style{
+    font-size: 30px;
+    cursor: pointer;
+}
+element.style{
+    width: opx;
+}
+.sidenav.closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.sidenav a{padding: 8px 8px 8px 32px;
+text-decoration: none;
+font-size: 25px;
+color: #818181;
+display: block;
+transition: 0.3s;
+}
+
+
+
